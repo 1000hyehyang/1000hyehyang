@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-FFA500?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-4169E1?style=flat-square&logo=Python&logoColor=white"/>
 
-// badge/뱃지 안에 쓸 스킬-색상코드?style=원하는 뱃지 스타일&logo=심플 아이콘 사이트에 있는 로고 이름 그대로&logoColor=로고 색
+
 
