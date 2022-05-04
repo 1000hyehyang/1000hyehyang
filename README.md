@@ -15,6 +15,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFACD,100:90EE90&height=300&section=header&text=From A to Z&desc=Hello%201000hyehyang%20world!&fontColor=F5FFFA&animation=twinkling&fontSize=50&fontAlignY=40" />
 </p>
 
+🐤Tech Stack🐤
 <img src="https://img.shields.io/badge/Java-B8860B?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-4169E1?style=flat-square&logo=Python&logoColor=white"/>
 
 ![1000hyehyang's github stats](https://github-readme-stats.vercel.app/api?username=1000hyehyang&show_icons=true)
