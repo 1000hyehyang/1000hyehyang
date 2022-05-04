@@ -15,7 +15,6 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=FFA500&height=200&section=header&text=Hello 1000hyehyang world!&fontColor=FFFFF0&animation=twinkling&fontSize=40" />
 </p>
 
-###Language
 <img src="https://img.shields.io/badge/Java-B8860B?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-4169E1?style=flat-square&logo=Python&logoColor=white"/>
 
 
