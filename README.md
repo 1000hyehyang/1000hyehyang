@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1000hyehyang&layout=compact)](https://github.com/1000hyehyang/github-readme-stats)
 
-
+![trophy](https://github-profile-trophy.vercel.app/?username=1000hyehyang)
 ![1000hyehyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=1000hyehyang&show_icons=true&theme=great-gatsby)
 
 [![Solved.ac
