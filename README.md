@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac
-1000hyehyang](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+1000hyehyang](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle}
 
 
 
