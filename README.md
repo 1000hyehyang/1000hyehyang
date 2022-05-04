@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=FFA500&height=200&section=header&text=Hello 1000hyehyang world!&fontColor=FFFFF0&animation=twinkling&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFACD,100:8FBC8F0&height=200&section=header&text=Hello 1000hyehyang world!&desc=Hello%20capsule%20render&fontColor=FFFFF0&animation=twinkling&fontSize=40" />
 </p>
 
 <img src="https://img.shields.io/badge/Java-B8860B?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-4169E1?style=flat-square&logo=Python&logoColor=white"/>
