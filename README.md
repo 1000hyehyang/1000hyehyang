@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 --> <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFACD,100:FFA500&height=300&section=header&text=From A to Z&desc=Hello%201000hyehyang%20world!&fontColor=FFFAF0&animation=twinkling&fontSize=50&fontAlignY=40" />
 </p>
-🍊안녕하세요 저는 여채현입니다! 
-  풀스택 개발자가 되기 위해 공부한 내용들을 복습하고 기록하는 공간입니다.🍊
+🍊Hello, I'm Yeo Chaehyeon.
+It is a space where I review and record what I have studied to become a full stack developer.🍊
 
 
 
 ⚔️Tech Stack⚔️
+-Techs that I've used main-
 
 
 
@@ -29,7 +30,12 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Java-B8860B?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-4169E1?style=flat-square&logo=Python&logoColor=white"/>
 
+⚔️Tech Stack⚔️
+-Techs that I should use-
 
+
+
+<img src="https://img.shields.io/badge/Unity-D3D3D3?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal Engine-696969?style=flat-square&logo=Unreal Engine&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1000hyehyang&layout=compact)](https://github.com/1000hyehyang/github-readme-stats)
 
