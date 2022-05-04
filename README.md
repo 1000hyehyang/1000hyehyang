@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 
 
 
-![1000hyehyang's github stats](https://github-readme-stats.vercel.app/api?username=1000hyehyang&show_icons=true)
+[![Solved.ac
+1000hyehyang](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 
