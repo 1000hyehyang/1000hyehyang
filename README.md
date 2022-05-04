@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=FFFACD&height=200&section=header&text=Hello 1000hyehyang world!&animation=twinkling&fontsize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=FFA500&height=200&section=header&text=Hello 1000hyehyang world!&fontColor=FFFFF0&animation=twinkling&fontSize=30" />
 </p>
 
 
