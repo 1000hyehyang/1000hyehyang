@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFFACD&height=300&section=header&text=Hello 1000hyehyang world!&fontSize=70" />
+</p>
+
+
 <img src="https://img.shields.io/badge/Java-B8860B?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-4169E1?style=flat-square&logo=Python&logoColor=white"/>
 
 
