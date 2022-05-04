@@ -17,8 +17,7 @@
 
 
 <br/><br/>
-![1000hyehyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=1000hyehyang&show_icons=true&theme=great-gatsby)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1000hyehyang)](https://solved.ac/1000hyehyang)
+![1000hyehyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=1000hyehyang&show_icons=true&theme=great-gatsby) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1000hyehyang)](https://solved.ac/1000hyehyang)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
