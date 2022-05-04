@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 --> <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFACD,100:FFA500&height=300&section=header&text=From A to Z&desc=Hello%201000hyehyang%20world!&fontColor=FFFAF0&animation=twinkling&fontSize=50&fontAlignY=40" />
 </p>
+🍊안녕하세요 저는 여채현입니다! 
+  풀스택 개발자가 되기 위해 공부한 내용들을 복습하고 기록하는 공간입니다.🍊
 
-🐤Tech Stack🐤
+
+
+⚔️Tech Stack⚔️
+
+
+
+
+
 
 
 <img src="https://img.shields.io/badge/Java-B8860B?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-4169E1?style=flat-square&logo=Python&logoColor=white"/>
