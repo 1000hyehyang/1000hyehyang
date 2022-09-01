@@ -1,7 +1,6 @@
 <div align=center>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFACD,100:FFA500&height=230&section=header&text=From A to Z&desc=Hello%201000hyehyang%20world!&fontColor=FFFAF0&animation=twinkling&fontSize=40&fontAlignY=35" />
-</p>
+
 
 🍊Hello, I'm Yeo Chaehyeon. It is a space where I review and record what I have studied to become a full stack developer.🍊  
 <br/><br/>
