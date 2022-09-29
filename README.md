@@ -2,7 +2,7 @@
 <p align="center">
 
 
-🍊Hello, I'm Yeo Chaehyeon. It is a space where I review and record what I have studied to become a full stack developer.🍊  
+🍊Hello, I'm Yeo Chaehyeon. It is a space where I review and record what I have studied to become a full stack/game developer.🍊  
 <br/><br/>
 ⚔️ Tech Stack ⚔️ 
 
