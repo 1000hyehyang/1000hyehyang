@@ -1,6 +1,7 @@
 <div align=center>
 <p align="center">
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&section=header&text=1000hyehyang's%20Github&fontSize=40)
 
 🍊Hello, I'm Yeo Chaehyeon. It is a space where I review and record what I have studied to become a full stack/game developer.🍊  
 <br/><br/>
