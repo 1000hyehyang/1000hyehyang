@@ -9,6 +9,16 @@
 😀 안녕하세요! 제 이름은 여채현이고 게임 개발을 공부하는 중입니다😀 
 <br/>
 📚현재 대학교에 재학중이며 필요한 역량들을 열심히 키워나가고 있습니다!📚
+  
+<br/>
+  
+<a href="https://www.instagram.com/yeoch._.9l9/">
+<img src="http://img.shields.io/badge/Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/yeoch._.9l9/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="http://img.shields.io/badge/Naver Blog-222222?style=flat&logo=Naver&link=https://blog.naver.com/1000hyehyang_/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+
 
 <br/><br/>
 ⚔️ Tech Stack ⚔️ 
