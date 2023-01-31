@@ -15,10 +15,9 @@
 <a href="https://www.instagram.com/yeoch._.9l9/">
 <img src="http://img.shields.io/badge/Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/yeoch._.9l9/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="http://img.shields.io/badge/Naver Blog-222222?style=flat&logo=Naver&link=https://blog.naver.com/1000hyehyang_/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
-
+<a href="https://blog.naver.com/1000hyehyang_" target="_blank"><img src="http://img.shields.io/badge/Naver Blog-222222?style=flat&logo=Naver&link=https://blog.naver.com/1000hyehyang_/"
+  style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+  
 
 <br/><br/>
 ⚔️ Tech Stack ⚔️ 
