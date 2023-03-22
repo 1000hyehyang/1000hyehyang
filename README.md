@@ -14,7 +14,7 @@
   style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   
   
-### 🌺 Who am I?
+## 🌺 Who am I?
 - Undergraduate of Hankuk University of Foreign Studies
 - Guitar of Crimson Red 🎸
 - MBTI: INTJ
