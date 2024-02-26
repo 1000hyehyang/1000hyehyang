@@ -5,7 +5,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=1000hyehyang)](https://solved.ac/1000hyehyang)
 
 
-##### 안녕하세요! **게임 개발자**를 목표로 하는 주니어 프로그래머 입니다.🎮 
+##### 안녕하세요! **클라이언트 게임 개발자**를 목표로 하는 주니어 프로그래머 입니다.🎮 
 
 <a href="https://www.instagram.com/yeoch._.9l9/">
 <img src="http://img.shields.io/badge/Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/yeoch._.9l9/"
