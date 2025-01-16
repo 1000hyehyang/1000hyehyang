@@ -12,7 +12,7 @@
   
   
   
-## 🌺 Who am I?
+## Who am I?
 - 🎓 Hankuk University of Foreign Studies, English for International Coference and Communication (2022.03 ~)
 - 🎮 서울대학교 기반 메타버스 연합 동아리 XREAL 6기 데브
 - 🎨 UMC 한국외대 7기 디자인
