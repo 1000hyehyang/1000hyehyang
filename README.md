@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=24&pause=1000&color=EF7D1D&width=435&lines=It+ain't+over+till+it's+over.)](https://git.io/typing-svg)
+
 ## Hi there! 🍊 
 > HUFS 22 EICC/SW AI | Developer
 
