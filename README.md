@@ -1,5 +1,5 @@
 ## Hi there! 🍊 
-> HUFS 22 EICC/SW AI | Game Developer
+> HUFS 22 EICC/SW AI | Developer
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1000hyehyang&count_bg=%23FF9F9F&title_bg=%23555555&icon=&icon_color=%23FFBDBD&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=1000hyehyang)](https://solved.ac/1000hyehyang)
