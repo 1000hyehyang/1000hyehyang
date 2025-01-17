@@ -16,7 +16,9 @@
   
 ## Who am I?
 - 🎓 Hankuk University of Foreign Studies, English for International Coference and Communication (2022.03 ~)
-- 🎮 서울대학교 기반 메타버스 연합 동아리 XREAL 6기 데브 [![XREAL](https://yt3.googleusercontent.com/RWi0jCNU1ReFhJA1PF4m_Y96RirdNSIizoU8aDsYH56MRz7aabl3ZQ6K4Ff5w1Xi0RhL4U7RoA=s24-c)](https://www.xreal.info) <a href="https://www.xreal.info">
+- 🎮 서울대학교 기반 메타버스 연합 동아리 XREAL 6기 데브  <a href="https://www.xreal.info" target="_blank">
+  <img src="https://yt3.googleusercontent.com/RWi0jCNU1ReFhJA1PF4m_Y96RirdNSIizoU8aDsYH56MRz7aabl3ZQ6K4Ff5w1Xi0RhL4U7RoA=s32-c" alt="XREAL" style="border-radius: 50%; width: 24px; height: 24px;">
+</a>
 - 🎨 UMC 한국외대 7기 디자인
 - 🎸 Guitar of Crimson Red 
 - 💡 MBTI: INTJ
