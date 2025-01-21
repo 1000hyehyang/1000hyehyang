@@ -35,9 +35,6 @@
 
 <br>
 
-
-기존의 뱃지들이 각 섹션에 맞게 적절히 분리되었는지 확인 후, 분류 기준을 더 명확히 하기 위해 추가적인 카테고리를 제안하고 재정렬했습니다.
-
 ## 💻 Tech Stacks
 ### Programming Languages
 <img src="https://img.shields.io/badge/C%23-65A854?style=flat-square&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED9149?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/R-4169E1?style=flat-square&logo=R&logoColor=white"/>
