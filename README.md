@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=24&pause=1000&color=EF7D1D&width=435&lines=It+ain't+over+till+it's+over.)](https://git.io/typing-svg)
 
-# 🍊 Hi there! 
+## 🍊 Hi there! 
 > **HUFS 22 | EICC & Software AI | Developer**
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1000hyehyang&count_bg=%23EF7D1D&title_bg=%23333333&icon=&icon_color=%23FFBDBD&title=Profile+Views&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -25,13 +25,13 @@
 
 ## 🏆 Experience
 - **2024 Summer XREAL XR Hackathon** | 🥉 **우수상**  
-  - 레시피 추천 VR 어시스턴트 | 개발 담당
+  - `레시피 추천 VR 어시스턴트 | 개발 담당`
   
 - **2024 메타버스 개발자 경진대회** | 🥉 **우수상** 
-  - APOC을 활용한 KBO 구단 브랜딩 XR 웹 서비스 | 총괄_기획, 개발, 디자인(UI/UX) 담당
+  - `APOC을 활용한 KBO 구단 브랜딩 XR 웹 서비스 | 총괄_기획, 개발, 디자인(UI/UX) 담당`
 
 - **2024 XR 디바이스 콘텐츠 메이커톤** | **본선 진출**  
-  - Open AI와 yolo v11을 활용한 AR 인공지능 요리 어시스턴트 | 개발 담당_클라이언트
+  - `Open AI와 yolo v11을 활용한 AR 인공지능 요리 어시스턴트 | 개발 담당_클라이언트`
 
 <br>
 
