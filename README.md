@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1000hyehyang&count_bg=%23EF7D1D&title_bg=%23333333&icon=&icon_color=%23FFBDBD&title=Profile+Views&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=1000hyehyang)](https://solved.ac/1000hyehyang)
 
-<a href="https://www.instagram.com/yeoch._.9l9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
+<a href="[=https://www.instagram.com/thousandhyehyang/]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
 <a href="https://thousandhyehyang.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
 <br>
