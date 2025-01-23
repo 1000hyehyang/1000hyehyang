@@ -36,24 +36,31 @@
 <br>
 
 ## 💻 Tech Stacks
-### Programming Languages
-<img src="https://img.shields.io/badge/C%23-65A854?style=flat-square&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED9149?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/R-4169E1?style=flat-square&logo=R&logoColor=white"/>
+### Main
+> <img src="https://img.shields.io/badge/C%23-65A854?style=flat-square&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+### Sub
+#### Front-End
+> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+
+#### Data Analysis
+> <img src="https://img.shields.io/badge/R-4169E1?style=flat-square&logo=R&logoColor=white"/>
 
 ### Frameworks & Libraries
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 
 ### Database
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 <br>
 
 
 ## 🔨 Tools
 ### Development Tools
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/Visual%20Studio-7A6397?style=flat-square&logo=Visual%20Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-448CCB?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/Visual%20Studio-7A6397?style=flat-square&logo=Visual%20Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-448CCB?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 
 ### Version Control
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 ### Design Tools
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=black"/>
+> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=black"/>
