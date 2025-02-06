@@ -14,7 +14,7 @@
 ## 🐣 About Me
 - 🎓 Hankuk University of Foreign Studies, English for International Coference and Communication (2022.03 ~)
 - 🎮 서울대학교 기반 메타버스 연합 학회 XREAL 6기 데브  <a href="https://www.xreal.info" target="_blank">
-  <img src="https://yt3.googleusercontent.com/RWi0jCNU1ReFhJA1PF4m_Y96RirdNSIizoU8aDsYH56MRz7aabl3ZQ6K4Ff5w1Xi0RhL4U7RoA=s32-c" alt="XREAL" style="border-radius: 50%; width: 24px; height: 24px;">
+  <img src="https://yt3.googleusercontent.com/pkOpWUcmvePPH_QfTaGC2fi_7AkzSMpo71H_NKulKYEW4q4-YE79tH8_oael6c4NPM8GMM1j=s900-c-k-c0x00ffffff-no-rj" alt="XREAL" style="border-radius: 50%; width: 24px; height: 24px;">
 </a> <br>
 - 🎨 UMC 한국외대 7기 디자인
 
