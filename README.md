@@ -16,7 +16,7 @@
 - 🎮 서울대학교 기반 메타버스 연합 학회 XREAL 6기 데브  <a href="https://www.xreal.info" target="_blank">
   <img src="https://yt3.googleusercontent.com/pkOpWUcmvePPH_QfTaGC2fi_7AkzSMpo71H_NKulKYEW4q4-YE79tH8_oael6c4NPM8GMM1j=s900-c-k-c0x00ffffff-no-rj" alt="XREAL" style="border-radius: 50%; width: 24px; height: 24px;">
 </a> <br>
-- 🎨 UMC 한국외대 7기 ~ 8기 디자인 파트장
+- 🎨 UMC 한국외대 7기 ~ 8기 Design TL
 
 <br>
 
@@ -38,7 +38,7 @@
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Main**             | ![C#](https://img.shields.io/badge/C%23-65A854?style=flat-square&logo=CSharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)     |
 | **Sub**  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![R](https://img.shields.io/badge/R-4169E1?style=flat-square&logo=R&logoColor=white)  |                                                                                                                                                          
-| **Frameworks & Libraries** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white) |
+| **Frameworks & Libraries** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white) |
 
 <br>
 
