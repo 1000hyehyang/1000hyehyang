@@ -6,7 +6,6 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=1000hyehyang)](https://solved.ac/1000hyehyang) -->
 
 <a href="https://www.instagram.com/thousandhyehyang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
-<a href="https://thousandhyehyang.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
 <br>
 
