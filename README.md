@@ -1,10 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=24&pause=1000&color=EF7D1D&width=435&lines=It+ain't+over+till+it's+over.)](https://git.io/typing-svg)
 
 ## 🍊 About Me
-- 🎓 Hankuk University of Foreign Studies, English for International Coference and Communication (2022.03 ~)
--  <a href="https://www.xreal.info" target="_blank"><img src="https://yt3.googleusercontent.com/pkOpWUcmvePPH_QfTaGC2fi_7AkzSMpo71H_NKulKYEW4q4-YE79tH8_oael6c4NPM8GMM1j=s900-c-k-c0x00ffffff-no-rj" alt="XREAL" style="border-radius: 50%; width: 24px; height: 24px;"></a> 서울대학교 기반 메타버스 연합 학회 XREAL 6기 데브 <br>
-- <a href="https://umc.makeus.in/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqDkE8I1Np_d7VDyRgRLzETXNjaQWMTJoUFg&s" alt="UMC" style="border-radius: 100%; width: 24px; height: 24px;"></a> UMC 한국외대 7기 ~ 8기 Design TL
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTRZU_YMy6CZqeuzKacLvZoERQoAIrGj3Ng&s" alt="프로그래머스" style="border-radius: 100%; width: 24px; height: 24px;"> 프로그래머스 생성형 AI 활용 백엔드 1기
+| What          | Description                                                                                                                                                                                  |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Education     | <img src="https://i.namu.wiki/i/z-yNs5UIyDmkFsOXtt7O_NkbQV3SrwztT5ElFmDL0aZeE-OHONSVkNhBfsTHlwhMlsQJVyBNOtNGAyWjdw4Bbw.svg" width="20" height="20"> Hankuk University of Foreign Studies, EICC학과 / Software AI (2022.03 ~) |
+| Activities    | <img src="https://yt3.googleusercontent.com/pkOpWUcmvePPH_QfTaGC2fi_7AkzSMpo71H_NKulKYEW4q4-YE79tH8_oael6c4NPM8GMM1j=s900-c-k-c0x00ffffff-no-rj" width="20" height="20"> 서울대학교 기반 메타버스 연합 학회 XREAL 6기 Dev |
+|               | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqDkE8I1Np_d7VDyRgRLzETXNjaQWMTJoUFg&s" width="20" height="20"> IT 연합 동아리 UMC 한국외대 7기 ~ 8기 Design TL |
+|               | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTRZU_YMy6CZqeuzKacLvZoERQoAIrGj3Ng&s" width="20" height="20"> 프로그래머스 생성형 AI 활용 백엔드 트랙 1기 수료 |
+| Certification | SQLD, ADsP, GTQ 1급, GTQ-i 1급 |
+
 <br>
 
 ## 🏆 Experience
