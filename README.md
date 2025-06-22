@@ -16,18 +16,10 @@
 
 - **2024 XR 디바이스 콘텐츠 메이커톤** | **본선 진출**  
   - `Open AI와 yolo v11을 활용한 AR 인공지능 요리 어시스턴트 | 개발 담당_클라이언트`
+ 
+<br>
 
 ## 🛠️ Tech Stack
-<img src="resources/stack (6).png" alt="Tech Stack" width="5%" />
-<img src="resources/stack (8).png" alt="Tech Stack" width="5%" />
-<img src="resources/stack (7).png" alt="Tech Stack" width="5%" />
-<img src="resources/stack (9).png" alt="Tech Stack" width="5%" />
-<img src="resources/stack (10).png" alt="Tech Stack" width="5%" />
-<img src="resources/stack (3).png" alt="Tech Stack" width="5%" />
-<img src="resources/stack (5).png" alt="Tech Stack" width="5%" />
-<img src="resources/stack (4).png" alt="Tech Stack" width="5%" />
-<img src="resources/stack (11).png" alt="Tech Stack" width="5%" />
-<img src="resources/stack (1).png" alt="Tech Stack" width="5%" />
-<img src="resources/stack (2).png" alt="Tech Stack" width="5%" />
+<img src="resources/stack (6).png" alt="Tech Stack" width="5%" /> <img src="resources/stack (8).png" alt="Tech Stack" width="5%" /> <img src="resources/stack (7).png" alt="Tech Stack" width="5%" /> <img src="resources/stack (9).png" alt="Tech Stack" width="5%" /> <img src="resources/stack (10).png" alt="Tech Stack" width="5%" /> <img src="resources/stack (3).png" alt="Tech Stack" width="5%" /> <img src="resources/stack (5).png" alt="Tech Stack" width="5%" /> <img src="resources/stack (4).png" alt="Tech Stack" width="5%" /> <img src="resources/stack (11).png" alt="Tech Stack" width="5%" /> <img src="resources/stack (1).png" alt="Tech Stack" width="5%" /> <img src="resources/stack (2).png" alt="Tech Stack" width="5%" />
 
 </div>
