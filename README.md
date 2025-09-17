@@ -9,7 +9,7 @@
 > Activities
 - <img src="https://yt3.googleusercontent.com/pkOpWUcmvePPH_QfTaGC2fi_7AkzSMpo71H_NKulKYEW4q4-YE79tH8_oael6c4NPM8GMM1j=s900-c-k-c0x00ffffff-no-rj" width="20" height="20"> 서울대학교 기반 XR-AI 연합 학회 XREAL 6th Developer
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqDkE8I1Np_d7VDyRgRLzETXNjaQWMTJoUFg&s" width="20" height="20"> IT 연합 동아리 UMC 한국외대 7th ~ 8th Design Part Leader / 9th Spring Boot
-- <img src="https://avatars.githubusercontent.com/u/88016560?s=280&v=4" width="20" height="20"> Google Developer Group on Campus HUFS Member
+- <img src="https://avatars.githubusercontent.com/u/88016560?s=280&v=4" width="20" height="20"> Google Developer Group on Campus HUFS Member 7th
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTRZU_YMy6CZqeuzKacLvZoERQoAIrGj3Ng&s" width="20" height="20"> 프로그래머스 생성형 AI 활용 백엔드 데브코스 1기
 
 <br>
