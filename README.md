@@ -23,6 +23,9 @@
 <br>
 
 ## 🏆 Awards & Experience
+> 2025
+- 2025 HUFS Better World 아이디어 공모전 우수상
+  
 > 2024
 - 2024 Summer XREAL XR Hackathon 우수상 
 - 2024 메타버스 개발자 경진대회 우수상 
