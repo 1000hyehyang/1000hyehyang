@@ -33,10 +33,6 @@
  
 <br>
 
-![1000hyehyang](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=1000hyehyang&theme=white&size=small&common_color=a0a0a0&sub_color=f0ae51&compact=1&use_back_color=0&use_border=0&use_shadow=0)
-
-<br>
-
 ## 🛠️ Tech Stack
 <img src="resources/stack (6).png" alt="Tech Stack" width="48px" /> <img src="resources/stack (8).png" alt="Tech Stack" width="48px" /> <img src="resources/stack (7).png" alt="Tech Stack" width="48px" /> <img src="resources/stack (13).png" alt="Tech Stack" width="48px" />
 <img src="resources/stack (12).png" alt="Tech Stack" width="48px" /> <img src="resources/stack (9).png" alt="Tech Stack" width="48px" /> <img src="resources/stack (10).png" alt="Tech Stack" width="48px" /> <img src="resources/stack (3).png" alt="Tech Stack" width="48px" /> <img src="resources/stack (5).png" alt="Tech Stack" width="48px" /> <img src="resources/stack (4).png" alt="Tech Stack" width="48px" /> <img src="resources/stack (11).png" alt="Tech Stack" width="48px" /> <img src="resources/stack (1).png" alt="Tech Stack" width="48px" /> <img src="resources/stack (2).png" alt="Tech Stack" width="48px" />
